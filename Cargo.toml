@@ -50,7 +50,7 @@ tokio-stream = "0.1.8"
 
 [build-dependencies]
 prost-build = "0.10.0"
-tonic-build = "0.7.0"
+tonic-build = "0.8.0"
 
 # docs.rs-specific configuration
 [package.metadata.docs.rs]
